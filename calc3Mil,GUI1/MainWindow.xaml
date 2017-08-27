@@ -1,0 +1,39 @@
+﻿<Window x:Class="calc3Mil_GUI1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:calc3Mil_GUI1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="539" Width="846">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="50" Margin="708,10,0,0" TextWrapping="Wrap" Text="Stored Value 1&#xD;&#xA;" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Mem 1" HorizontalAlignment="Left" Margin="654,23,0,0" VerticalAlignment="Top" Width="58"/>
+        <Label Content="Mem 2" HorizontalAlignment="Left" Margin="654,78,0,0" VerticalAlignment="Top" Width="58"/>
+        <TextBox HorizontalAlignment="Left" Height="50" Margin="708,65,0,0" TextWrapping="Wrap" Text="Stored Value 2&#xA;" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Mem 3" HorizontalAlignment="Left" Margin="654,131,0,0" VerticalAlignment="Top" Width="58"/>
+        <TextBox HorizontalAlignment="Left" Height="50" Margin="708,120,0,0" TextWrapping="Wrap" Text="Stored Value 3&#xA;" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="574,26,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Store" HorizontalAlignment="Left" Margin="574,26,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Store" HorizontalAlignment="Left" Margin="574,137,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Store" HorizontalAlignment="Left" Margin="574,84,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBox HorizontalAlignment="Left" Height="67" Margin="10,10,0,0" TextWrapping="Wrap" Text="Main Output Window" VerticalAlignment="Top" Width="545"/>
+        <TextBox HorizontalAlignment="Left" Height="67" Margin="10,78,0,0" TextWrapping="Wrap" Text="Main Input Window" VerticalAlignment="Top" Width="545"/>
+        <TextBox HorizontalAlignment="Left" Height="298" Margin="10,200,0,0" TextWrapping="Wrap" Text="Numerical input(0~9) and Operators like sqrt,pwr,divide,mulitply,etc." VerticalAlignment="Top" Width="545"/>
+        <TabControl HorizontalAlignment="Left" Height="298" Margin="560,200,0,0" VerticalAlignment="Top" Width="268">
+            <TabItem Header="Mechanics" Margin="-2,-2,-22,0">
+                <Grid Background="#FFE5E5E5">
+                    <Image HorizontalAlignment="Left" Height="100" Margin="10,10,0,0" VerticalAlignment="Top" Width="242"/>
+                    <Label Content="Image of the eqn w/ small text boxes &#xD;&#xA;for people to enter values&#xD;&#xA;or&#xD;&#xA;we could have another area for entering&#xD;&#xA;values, maybe in a pop up window. " HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="100" Width="242"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Thermo" Margin="22,0,-26,-2">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="Etc." HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="54" Margin="27,0,-27,0">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>
