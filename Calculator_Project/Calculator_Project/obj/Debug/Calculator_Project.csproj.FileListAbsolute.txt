@@ -1,0 +1,16 @@
+c:\users\minali\documents\visual studio 2015\Projects\Calculator_Project\Calculator_Project\bin\Debug\Calculator_Project.exe.config
+c:\users\minali\documents\visual studio 2015\Projects\Calculator_Project\Calculator_Project\bin\Debug\Calculator_Project.exe
+c:\users\minali\documents\visual studio 2015\Projects\Calculator_Project\Calculator_Project\bin\Debug\Calculator_Project.pdb
+c:\users\minali\documents\visual studio 2015\Projects\Calculator_Project\Calculator_Project\obj\Debug\Calculator_Project.csprojResolveAssemblyReference.cache
+c:\users\minali\documents\visual studio 2015\Projects\Calculator_Project\Calculator_Project\obj\Debug\MainWindow.g.cs
+c:\users\minali\documents\visual studio 2015\Projects\Calculator_Project\Calculator_Project\obj\Debug\App.g.cs
+c:\users\minali\documents\visual studio 2015\Projects\Calculator_Project\Calculator_Project\obj\Debug\Calculator_Project_MarkupCompile.cache
+c:\users\minali\documents\visual studio 2015\Projects\Calculator_Project\Calculator_Project\obj\Debug\Calculator_Project_MarkupCompile.lref
+c:\users\minali\documents\visual studio 2015\Projects\Calculator_Project\Calculator_Project\obj\Debug\MainWindow.baml
+c:\users\minali\documents\visual studio 2015\Projects\Calculator_Project\Calculator_Project\obj\Debug\Calculator_Project.g.resources
+c:\users\minali\documents\visual studio 2015\Projects\Calculator_Project\Calculator_Project\obj\Debug\Calculator_Project.Properties.Resources.resources
+c:\users\minali\documents\visual studio 2015\Projects\Calculator_Project\Calculator_Project\obj\Debug\Calculator_Project.csproj.GenerateResource.Cache
+c:\users\minali\documents\visual studio 2015\Projects\Calculator_Project\Calculator_Project\obj\Debug\Calculator_Project.exe
+c:\users\minali\documents\visual studio 2015\Projects\Calculator_Project\Calculator_Project\obj\Debug\Calculator_Project.pdb
+C:\Users\Minali\Documents\Visual Studio 2015\Projects\Calculator_Project\Calculator_Project\obj\Debug\Window1.g.cs
+C:\Users\Minali\Documents\Visual Studio 2015\Projects\Calculator_Project\Calculator_Project\obj\Debug\Window1.baml
