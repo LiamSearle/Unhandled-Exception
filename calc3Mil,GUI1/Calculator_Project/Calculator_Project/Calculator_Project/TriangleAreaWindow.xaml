@@ -1,0 +1,21 @@
+﻿<Window x:Class="Calculator_Project.TriangleAreaWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calculator_Project"
+        mc:Ignorable="d"
+        Title="TriangleAreaWindow" Height="300" Width="317">
+    <Grid>
+        <Label x:Name="label" Content="Area of Triangle" HorizontalAlignment="Left" Margin="77,10,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Label x:Name="label1" Content="The formula for area of a triangle is 0.5*base*height" HorizontalAlignment="Left" Margin="10,49,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.447,-0.423"/>
+        <Label x:Name="label2" Content="Base:" HorizontalAlignment="Left" Margin="20,80,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.921,0.269"/>
+        <TextBox x:Name="base_box" HorizontalAlignment="Left" Height="23" Margin="62,80,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label3" Content="Height:" HorizontalAlignment="Left" Margin="20,127,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="height_box" HorizontalAlignment="Left" Height="23" Margin="77,127,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="button" Content="Calculate" HorizontalAlignment="Left" Margin="62,176,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+        <Label x:Name="label4" Content="Output:" HorizontalAlignment="Left" Margin="20,213,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="output" HorizontalAlignment="Left" Height="23" Margin="77,213,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>
